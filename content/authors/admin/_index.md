@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yongshi Deng 鄧詠詩
+title: Yongshi (Agnes) Deng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -61,46 +61,45 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://researchspace.auckland.ac.nz/handle/2292/70308'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc (Honours)  in Statistics, First Class Honours
+    institution: University of Auckland
+    date_start: 2018-01-01
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA 8.875 out of 9
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      - Probability Theory, Bayesian Inference, Modern Applied Statistics
+      - Machine Learning, Data mining, Statistical Computing
+  - area: B.Sc in Mathematics and Statistics
+    institution: University of Auckland
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2017-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA 8.75 out of 9
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Real Analysis, Algebraic Structures, Partial Differential Equations, Stochastic Processes
+      - Statistical Inference, Statistical Theory, Statistical Modelling, Time Series
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data Scientist
+    company_name: Institute of Environmental Science and Research (ESR), New Zealand
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-01-15
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Big Data Analytics Internship
+    company_name: Vodafone New Zealand Limited
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-01-01
+    date_end: 2019-02-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -112,6 +111,10 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: R
+        description: ''
+        percent: 90
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 80
@@ -122,19 +125,19 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Singing
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Watercolor
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
       - name: Photography
         description: ''
@@ -143,11 +146,11 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Cantonese
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Mandarin
+    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +186,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+...
