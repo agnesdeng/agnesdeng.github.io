@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: zinc
+  mode: light
+  color: blue
   #color: emerald
 
 # SEO
@@ -36,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Yongshi (Agnes) Deng"
 
 # Site footer
 footer:
