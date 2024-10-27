@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Learn Mathematics
+summary: ......
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - Mathematics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

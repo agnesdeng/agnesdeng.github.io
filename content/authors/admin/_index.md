@@ -49,7 +49,7 @@ profiles:
 interests:
   - Missing Data
   - Statistical Learning
-  - Data Science
+  - Trees
 
 education:
   - area: PhD in Statistics
@@ -114,7 +114,7 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: R_icon
+        icon: custom/R_icon
       - name: Python
         description: ''
         percent: 80
@@ -130,11 +130,11 @@ skills:
       - name: Singing
         description: ''
         percent: 80
-        icon: singing
+        icon: custom/singing
       - name: Watercolour
         description: ''
         percent: 80
-        icon: brush
+        icon: custom/brush
       - name: Photography
         description: ''
         percent: 80

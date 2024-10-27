@@ -15,9 +15,10 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #download cv button
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
     design:
       css_class: light
       background:
@@ -36,11 +37,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a xxxxx. I blog about machine learning, deep learning, and moonshots.
+        ....xyz
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        ...xyz
         
-        Please reach out to collaborate 😃
+        ...xyz
     design:
       columns: '1'
   - block: collection
