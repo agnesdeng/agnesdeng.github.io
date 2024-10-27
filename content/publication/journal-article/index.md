@@ -1,7 +1,7 @@
 ---
 title: 'Multiple Imputation Through XGBoost'
 authors:
-- Yongshi Deng
+- admin
 - Thomas Lumley
 author_notes:
 - "Equal contribution"
@@ -24,7 +24,7 @@ publication_short: ""
 abstract: The use of multiple imputation (MI) is becoming increasingly popular for addressing missing data. Although some conventional MI approaches have been well studied and have shown empirical validity, they have limitations when processing large datasets with complex data structures. Their imputation performances usually rely on the proper specification of imputation models, and this requires expert knowledge of the inherent relations among variables. Moreover, these standard approaches tend to be computationally inefficient for medium and large datasets. In this paper, we propose a scalable MI framework mixgb, which is based on XGBoost, subsampling, and predictive mean matching. Our approach leverages the power of XGBoost, a fast implementation of gradient boosted trees, to automatically capture interactions and nonlinear relations while achieving high computational efficiency. In addition, we incorporate subsampling and predictive mean matching to reduce bias and to better account for appropriate imputation variability. The proposed framework is implemented in an R package mixgb. Supplementary materials for this article are available online.
 
 # Summary. An optional shortened abstract.
-summary:  A faster way for multiple imputation that comes with good imputation performance.
+summary:  A faster multiple imputation approach that yields reliable results.
 
 tags:
 - mixgb
@@ -67,12 +67,14 @@ slides: example
 ---
 
 {{% callout note %}}
+Please click the link to the **full text** [Multiple Imputation Through XGBoost](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501)
+{{% /callout %}}
+
+{{% callout note %}}
 Please click the *Cite* button above to download the BibTeX entry for this article.
 {{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
+
 
 #Add the publication's **full text** or **supplementary notes** here. 
 #You can use rich formatting such as including[code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
