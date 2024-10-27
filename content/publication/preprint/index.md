@@ -3,11 +3,11 @@ title: 'Vismi: Visualisation Tools for Multiple Imputation'
 authors:
 - Yongshi Deng
 - Thomas Lumley
-date: "2024-12-27T00:00:00Z"
+date: "2025-12-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-27T00:00:00Z"
+publishDate: "2025-12-27T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -64,10 +64,10 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+#This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+#Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
