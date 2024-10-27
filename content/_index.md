@@ -36,7 +36,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Use this area to speak to your mission. I'm a xxxxx. I blog about machine learning, deep learning, and moonshots.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
@@ -75,9 +75,9 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: blog
     content:
-      title: Recent News
+      title: Blog 
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
