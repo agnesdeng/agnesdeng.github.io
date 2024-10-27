@@ -16,9 +16,9 @@ tags:
   - PhD
 ---
 
- 🎉
+
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Graduation ceremony will be in May 2025 though
+## Graduation ceremony will be in May 2025
 

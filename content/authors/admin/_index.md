@@ -81,7 +81,7 @@ education:
       GPA 8.75 out of 9
       
       Summer Research in Mathematics: Number Theory and Cryptography
-      Supervisor: Prof Steven Galbraith
+      - Supervisor: Prof Steven Galbraith
 
       Courses included:
       - Real Analysis, Algebraic Structures, Partial Differential Equations, Stochastic Processes
@@ -152,8 +152,47 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Neural Networks and Deep Learning
+awards:
+- title: University of Auckland Doctoral Scholarship
+    date: '2019 - 2022'
+    awarder: University of Auckland
+
+- title: Highly Commended Student Talk at 2020 NZSA Conference
+    date: 2020
+    awarder: The New Zealand Statistical Association
+
+- title: Best Student Talk at 2020 NZSA Conference
+    date: 2019
+    awarder: The New Zealand Statistical Association
+
+- title: Senior Scholar Award
+    date: 2017
+    awarder: University of Auckland
+    summary: Awarded for achieving the highest overall grades in the degree programme
+
+- title: Summer Research Scholarship
+    date: '2019 - 2022'
+    awarder: University of Auckland
+
+- title: Top 20 Statistics Student
+    date: '2016 & 2017'
+    awarder: University of Auckland
+
+- title: The Ivan Reilly Prize
+    date: '2016'
+    awarder: University of Auckland
+    summary: Recognised for being the top performing student in MATHS 250
+
+- title: First in Course Awards
+    date: '2016 - 2018'
+    awarder: University of Auckland
+    summary: |
+      - STATS 760 (A Survey of Modern Applied Statistics)
+      - STATS 310 (Introduction to Statistical Inference)
+      - MATHS 255 (Principles of Mathematics)
+      - MATHS 250 (Advancing Mathematics 2)
+      - STATS 125 (Probability and its Applications)
+#- title: Neural Networks and Deep Learning
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
 #    date: '2023-11-25'
  #   awarder: Coursera

@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: indigo
+  color: blue
   theme_day: ocean
   #color: emerald
 
@@ -35,7 +35,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "Yongshi Deng"
 

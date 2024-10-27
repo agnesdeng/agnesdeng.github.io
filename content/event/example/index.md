@@ -27,7 +27,9 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - admin
 
-tags: []
+tags:
+  - vismi
+  - Multiple Imputation
 
 # Is this a featured talk? (true/false)
 featured: false

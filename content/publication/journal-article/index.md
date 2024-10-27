@@ -27,7 +27,9 @@ abstract: The use of multiple imputation (MI) is becoming increasingly popular f
 summary:  A faster way for multiple imputation that comes with good imputation performance.
 
 tags:
-- Source Themes
+- mixgb
+- Multiple Imputation
+
 featured: true
 
 # links:
