@@ -1,7 +1,7 @@
 ---
-title: "An example preprint / working paper (vismi)"
+title: "An example preprint / working paper"
 authors:
-- admin
+- Yongshi Deng
 date: "2024-10-27T00:00:00Z"
 doi: ""
 
