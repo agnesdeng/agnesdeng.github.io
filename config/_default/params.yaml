@@ -7,7 +7,7 @@
 appearance:
   mode: light
   color: blue
-  theme_day: light
+  theme_day: minimal
   #color: emerald
 
 # SEO
