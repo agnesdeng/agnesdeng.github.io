@@ -16,7 +16,7 @@ main:
  - name: Projects
     url: projects/
     weight: 40
-  - name: Blog
+  - name: NEWS
     url: /#news
     weight: 50
   - name: Experience
