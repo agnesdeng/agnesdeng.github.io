@@ -153,38 +153,42 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-- title: University of Auckland Doctoral Scholarship
-  date: "2019 - 2022"
+- title: University of Auckland Doctoral Scholarship (2019-2022)
+  date: '2019-03-01'
   awarder: University of Auckland
 
 - title: Highly Commended Student Talk at 2020 NZSA Conference
-  date: "2020"
+  date: '2020-11-25'
   awarder: The New Zealand Statistical Association
 
 - title: Best Student Talk at 2020 NZSA Conference
-  date: "2019"
+  date: '2019-11-27'
   awarder: The New Zealand Statistical Association
 
 - title: Senior Scholar Award
-  date: "2017"
+  date: '2017-12-10'
   awarder: University of Auckland
   summary: Awarded for achieving the highest overall grades in the degree programme
 
 - title: Summer Research Scholarship
-  date: "2019 - 2022"
+  date: '2017-11-01'
   awarder: University of Auckland
 
 - title: Top 20 Statistics Student
-  date: "2016 & 2017"
+  date: '2017-12-01'
+  awarder: University of Auckland
+
+- title: Top 20 Statistics Student
+  date: '2016-12-01'
   awarder: University of Auckland
 
 - title: The Ivan Reilly Prize
-  date: "2016"
+  date: '2016-12-01'
   awarder: University of Auckland
   summary: Recognised for being the top performing student in MATHS 250
 
-- title: First in Course Awards
-  date: "2016 - 2018"
+- title: First in Course Awards (2016-2018)
+  date: '2018-12-01'
   awarder: University of Auckland
   summary: |
     - STATS 760 (A Survey of Modern Applied Statistics)
