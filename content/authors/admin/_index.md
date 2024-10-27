@@ -90,10 +90,8 @@ work:
     date_start: 2024-01-15
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #     Responsibilities include:
+ #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Big Data Analytics Internship
     company_name: Vodafone New Zealand Limited
     company_url: ''
@@ -101,10 +99,7 @@ work:
     date_start: 2019-01-01
     date_end: 2019-03-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -130,7 +125,7 @@ skills:
       - name: Singing
         description: ''
         percent: 80
-        icon: custom/singing
+        icon: custom/sing
       - name: Watercolour
         description: ''
         percent: 80
@@ -182,4 +177,4 @@ languages:
 
 ## About Me
 
-What we talk about when we talk about statistics?
+A non-automated statistician.
