@@ -11,10 +11,10 @@ main:
     url: /#papers
     weight: 11
   - name: Talks
-    url: event/
+    url: /#talks
     weight: 12
   - name: Blogs
-    url: post/
+    url: /#blog
     weight: 13
   - name: Experience
     url: experience/
