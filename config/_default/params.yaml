@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   mode: light
-  color: zinc
-  theme_day: sky
+  color: sky
+  theme_day: ocean
   #color: emerald
 
 # SEO

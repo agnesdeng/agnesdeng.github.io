@@ -1,5 +1,5 @@
 ---
-title: Vismi: Visualisation Tools for Multiple Imputation
+title: 'vismi: Visualisation Tools for Multiple Imputation'
 
 event: New Zealand Statistical Association 2024 Conference
 event_url: https://sms.wgtn.ac.nz/Events/NZSA2024/WebHome

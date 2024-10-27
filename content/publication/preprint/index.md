@@ -1,5 +1,5 @@
 ---
-title: "Vismi: Visualisation Tools for Multiple Imputation"
+title: 'Vismi: Visualisation Tools for Multiple Imputation'
 authors:
 - Yongshi Deng
 - Thomas Lumley
