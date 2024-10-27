@@ -5,7 +5,7 @@ external_link: https://github.com/agnesdeng/vismi
 tags:
   - Visualisation
   - R
-  - MultipleImputation
+  - Multiple Imputation
 ---
 
 vismi: Visualisation Tools for Multiple Imputation

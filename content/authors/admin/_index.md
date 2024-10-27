@@ -46,10 +46,8 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5845-859X
 
-interests:
-  - Missing Data
-  - Statistical Learning
-  - Trees
+#interests:
+
 
 education:
   - area: PhD in Statistics
@@ -57,7 +55,8 @@ education:
     date_start: 2019-03-01
     date_end: 2024-10-01
     summary: |
-      Thesis on _Multiple Imputation Through Statistical Learning_. Supervised by [Prof Thomas Lumley](https://example.com). 
+      Thesis on _Multiple Imputation Through Statistical Learning_. 
+      - Supervisors: Prof Thomas Lumley, Assoc. Prof Beatrix Jones
     button:
       text: 'Read Thesis'
       url: 'https://researchspace.auckland.ac.nz/handle/2292/70308'
@@ -67,6 +66,9 @@ education:
     date_end: 2018-12-31
     summary: |
       GPA 8.875 out of 9
+
+      Honours Project: Optimal Path in Random Graphs
+      - Supervisor: Dr Jesse Goodman
 
       Courses included:
       - Probability Theory, Bayesian Inference, Modern Applied Statistics
@@ -78,10 +80,13 @@ education:
     summary: |
       GPA 8.75 out of 9
       
+      Summer Research in Mathematics: Number Theory and Cryptography
+      Supervisor: Prof Steven Galbraith
+
       Courses included:
       - Real Analysis, Algebraic Structures, Partial Differential Equations, Stochastic Processes
       - Statistical Inference, Statistical Theory, Statistical Modelling, Time Series
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Data Scientist
     company_name: Institute of Environmental Science and Research (ESR), New Zealand

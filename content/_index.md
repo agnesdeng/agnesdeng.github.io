@@ -34,14 +34,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research Interests'
       subtitle: ''
       text: |-
-        ....xyz
-
-        ...xyz
-        
-        ...xyz
+          - Missing Data
+          - Statistical Learning
+          - Trees
     design:
       columns: '1'
   - block: collection
@@ -84,7 +82,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 1
       # Filter on criteria
       filters:
         author: ""

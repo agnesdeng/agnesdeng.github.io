@@ -6,7 +6,7 @@ tags:
   - Autoencoders
   - Torch
   - R
-  - MultipleImputation
+  - Multiple Imputation
 ---
 
 miae: multiple imputation through autoencoders

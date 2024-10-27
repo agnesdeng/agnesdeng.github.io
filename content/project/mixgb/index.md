@@ -6,7 +6,7 @@ tags:
   - mixgb
   - XGBoost
   - R
-  - MultipleImputation
+  - Multiple Imputation
 ---
 
 mixgb: Multiple Imputation Through XGBoost
