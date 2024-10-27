@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yongshi (Agnes) Deng
+title: Yongshi Deng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -114,15 +114,11 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: code-bracket
+        icon: R_icon
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
         description: ''
         percent: 60
@@ -134,11 +130,11 @@ skills:
       - name: Singing
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Watercolor
+        icon: singing
+      - name: Watercolour
         description: ''
         percent: 80
-        icon: cat
+        icon: brush
       - name: Photography
         description: ''
         percent: 80
@@ -147,7 +143,7 @@ skills:
 languages:
   - name: English
     percent: 90
-  - name: Cantonese
+  - name: Cantonese 
     percent: 100
   - name: Mandarin
     percent: 95
@@ -186,4 +182,4 @@ languages:
 
 ## About Me
 
-What we talk about when we talk about ...
+What we talk about when we talk about statistics?
