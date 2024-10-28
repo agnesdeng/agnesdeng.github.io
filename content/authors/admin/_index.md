@@ -107,7 +107,7 @@ work:
     date_start: 2019-01-01
     date_end: 2021-12-01
     summary: |
-    - position: Graduate Teaching Assistant
+  - position: Graduate Teaching Assistant
     company_name: University of Auckland
     company_url: ''
     company_logo: ''
