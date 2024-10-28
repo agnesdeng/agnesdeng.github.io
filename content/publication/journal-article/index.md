@@ -67,14 +67,11 @@ slides: example
 ---
 
 {{% callout note %}}
-Please click the link to the **full text** [Multiple Imputation Through XGBoost](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501)
+ **Full text** of [Multiple Imputation Through XGBoost](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501)
 {{% /callout %}}
 
 {{% callout note %}}
-Please click the *Cite* button above to download the BibTeX entry for this article.
+**Supplementary materials** [Github repository](https://github.com/agnesdeng/mixgb-supplement)
 {{% /callout %}}
 
 
-
-#Add the publication's **full text** or **supplementary notes** here. 
-#You can use rich formatting such as including[code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

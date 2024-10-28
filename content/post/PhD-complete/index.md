@@ -20,5 +20,10 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Graduation ceremony will be in May 2025
+{{% callout note %}}
+ You can download my **PhD thesis** here [Multiple Imputation Through Statistical Learning](https://researchspace.auckland.ac.nz/handle/2292/70308)
+{{% /callout %}}
+
+
+
 
