@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -67,11 +67,12 @@ slides: example
 ---
 
 {{% callout note %}}
- **Full text** of [Multiple Imputation Through XGBoost](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501)
+ **Full text** of this paper
 {{% /callout %}}
+[Multiple Imputation Through XGBoost](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501)
 
 {{% callout note %}}
-**Supplementary materials** [Github repository](https://github.com/agnesdeng/mixgb-supplement)
+**Supplementary materials** of this paper
 {{% /callout %}}
-
+[Github repository](https://github.com/agnesdeng/mixgb-supplement)
 
