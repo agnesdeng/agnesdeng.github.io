@@ -3,6 +3,11 @@
 # Docs: https://docs.hugoblox.com/reference/page-sharer/
 
 links:
+  - id: mastodon
+    url: 'https://mastodonshare.com/share'
+    title: Mastodon
+    icon: brands/mastodon
+    enable: true
   - id: x
     url: 'https://twitter.com/intent/tweet?url={url}&text={title}'
     title: X

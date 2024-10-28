@@ -45,6 +45,8 @@ profiles:
     url: https://scholar.google.com/citations?user=6jfn06EAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5845-859X
+  - icon: brands/mastodon
+    url: https://mastodon.social/@yongshi_deng
 
 #interests:
 
