@@ -70,6 +70,8 @@ sections:
       filters:
         folders:
           - event
+      count: 5
+      order: desc
     design:
       view: article-grid
       columns: 1
