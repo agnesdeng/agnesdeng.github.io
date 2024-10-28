@@ -69,10 +69,12 @@ slides: example
 {{% callout note %}}
  **Full text** of this paper
 {{% /callout %}}
+
 [Multiple Imputation Through XGBoost](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501)
 
 {{% callout note %}}
 **Supplementary materials** of this paper
 {{% /callout %}}
+
 [Github repository](https://github.com/agnesdeng/mixgb-supplement)
 
