@@ -15,7 +15,7 @@ sections:
       text: Here are a selection of talks that I have given over the years.
       filters:
         folders:
-          - talk
+          - event
     design:
       view: article-grid
       fill_image: false
