@@ -8,7 +8,7 @@ links:
     title: X
     icon: brands/x
     enable: true
-    - id: linkedin
+  - id: linkedin
     url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
     title: LinkedIn
     icon: brands/linkedin
@@ -23,11 +23,11 @@ links:
     title: Facebook
     icon: brands/facebook
     enable: true
-  - id: whatsapp
-    url: 'whatsapp://send?text={title}%20{url}'
-    title: WhatsApp
-    icon: brands/whatsapp
-    enable: false
+#  - id: whatsapp
+#    url: 'whatsapp://send?text={title}%20{url}'
+#    title: WhatsApp
+#    icon: brands/whatsapp
+#   enable: false
 #  - id: weibo
 #    url: 'https://service.weibo.com/share/share.php?url={url}&title={title}'
 #    title: Weibo
