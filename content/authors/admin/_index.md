@@ -117,11 +117,11 @@ work:
       Provided teaching assistance in the following courses:
       - STATS 10x (Introduction to Statistics)
       - STATS 125 (Probability and its Applications)
-	    - STATS 210 (Statistical Theory)
-	    - STATS 20x (Data Analysis)
-	    - STATS 330 (Statistical Modelling)
-	    - STATS 763 (Advanced Regression Methodology)
-	    - STATS 782 (Statistical Computing)
+      - STATS 210 (Statistical Theory)
+      - STATS 20x (Data Analysis)
+      - STATS 330 (Statistical Modelling)
+      - STATS 763 (Advanced Regression Methodology)
+      - STATS 782 (Statistical Computing)
   - position: Big Data Analytics Internship
     company_name: Vodafone New Zealand Limited
     company_url: ''
