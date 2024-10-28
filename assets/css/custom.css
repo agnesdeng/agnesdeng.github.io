@@ -7,7 +7,7 @@
 }
 
 .max-w-prose {
-  max-width: 80%; /* Change this to your preferred width */
+  max-width: 100%; /* Change this to your preferred width */
   width: 100%;
   margin: 0 auto; /* Center the content */
 }
