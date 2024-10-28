@@ -45,9 +45,9 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com/agnesdeng/mixgb'
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,8 +61,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - mixgb
+projects: []
 ---
 
 
