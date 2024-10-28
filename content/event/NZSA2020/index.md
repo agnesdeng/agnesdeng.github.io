@@ -1,24 +1,24 @@
 ---
-title: 'Multiple imputation through variational  autoencoders'
+title: 'Designed Experiments for Tuning Hyperparameters in Machine Learning Algorithms'
 
-event: New Zealand Statistical Association 2019 Conference
-event_url: https://www.otago.ac.nz/nzsa
+event: New Zealand Statistical Association 2020 Conference
+event_url: https://www.stats.org.nz/nzsa-unconference-november-2020/
 
-location: University of Otago, New Zealand
+location: University of Auckland, New Zealand
 address:
-  street: 362 Leith Street
-  city: Dunedin
+  street: Princes Street
+  city: Auckland
   #region: CA
  # postcode: '94305'
   country: New Zealand
 
-summary: Implemented with TensorFlow.
-abstract: 'Missing values are ubiquitous in clinical and social science data. Incomplete data not only leads to loss of information but can also introduce bias, which poses a significant challenge for data analysis. Various imputation procedures were designed to handle incomplete data under different missingness mechanisms. Rubin (1977) introduced multiple imputation to attain valid inference from data with ignorable nonresponse. Some techniques and R packages are developed to implement multiple imputations, such as MICE, Amelia and MissForest. However, the running time of imputation using these methods can be excessive for large datasets. We propose a scalable multiple imputation method based on variational and denoising autoencoders.  Our R package mivae is built using the tensorflow package in R, which enables fast computation and thus provides a scalable solution for missing data.  In this presentation, I will demonstrate some features of the R package mivae and compare the performance of several commonly used multiple imputation techniques.  Multiple imputation inference will also be discussed. '
+summary: Alternative method for hyperparameter tuning based on Supersaturated Design with Response Surface Methodology (SDRSM)
+abstract: 'Most machine learning algorithms involve tuning a set of hyperparameters to achieve better performance. The most widely used methodologies for hyperparameter tuning are exhaustive grid search, random search and Bayesian optimisation. However, these methods can be time-consuming and may not achieve optimal outcomes as interactions between hyperparameters are ignored. We propose an alternative method for tuning machine learning hyperparameters through supersaturated designs and response surface methodology (SDRSM). In this talk, we demonstrate our approach SDRSM, and discuss the potential and limitation of applying the proposed method to hyperparameter search.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-11-26T13:00:00Z'
-date_end: '2019-11-28T15:00:00Z'
+date: '2020-11-24T13:00:00Z'
+date_end: '2020-11-25T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,8 +28,9 @@ authors:
   - admin
 
 tags:
-  - Multiple Imputation
-  - Autoencoders
+  - Design of Experiments
+  - Machine Learning
+  - Hyperparameters
 
 # Is this a featured talk? (true/false)
 featured: false

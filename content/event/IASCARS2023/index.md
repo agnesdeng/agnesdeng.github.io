@@ -12,7 +12,7 @@ address:
  # postcode: '94305'
   country: Australia
 
-summary: Demonstrate the R package miae.
+summary: Demonstrate R package miae. Implemented with Torch.
 abstract: 'Standard implementations of multiple imputation have limitations in handling missing data in large datasets with complex data structures. Achieving satisfactory imputation performance often depends on properly specifying the imputation model to account for interactions among variables. Therefore, imputing a large dataset can be daunting, particularly when there is a large number of incomplete variables. In this talk, we will discuss the potential of applying different variants of autoencoders to multiple imputation. A comprehensive analysis on the the effect of hyperparameters on imputation performance is given. We provide insights into the suitability of using autoencoders for multiple imputation tasks and give practical suggestions to improve their imputation performance. The proposed procedure is implemented in an R package miae, which uses torch as the backend, so that setting up Python is not required. In addition, miae aims to provide an automated procedure, where the main imputation function can automatically handle tasks such as data preprocessing and proprocessing, without requiring extra work from users. Various statistical techniques have also been implemented to enhance the imputation performance of miae and its performance is evaluated and compared to those of mice and mixgb. The development version of miae is available at https://github.com/agnesdeng/miae.'
 
 # Talk start and end times.
