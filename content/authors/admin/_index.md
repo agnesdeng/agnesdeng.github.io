@@ -30,7 +30,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  #- icon: at-symbol
+  - icon: custom/email
     url: 'mailto:yongshi.deng@auckland.ac.nz'
     label: E-mail Me
   #- icon: brands/x
