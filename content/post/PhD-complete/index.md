@@ -8,7 +8,7 @@ date: 2024-10-11
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-author:
+authors:
   - admin
 
 tags:
