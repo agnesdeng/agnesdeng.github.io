@@ -8,7 +8,7 @@ date: 2024-10-11
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-authors:
+author:
   - admin
 
 tags:
@@ -21,7 +21,7 @@ tags:
 {{< toc mobile_only=true is_open=true >}}
 
 {{% callout %}}
- You can download my **PhD thesis** here 
+My **PhD thesis** is published on ResearchSpace now. 
 {{% /callout %}}
 
 [Multiple Imputation Through Statistical Learning](https://researchspace.auckland.ac.nz/handle/2292/70308)
