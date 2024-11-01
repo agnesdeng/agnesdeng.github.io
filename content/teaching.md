@@ -10,8 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
-    content:
+  - block: resume-teaching
       title: Teaching Experience
       username: admin
       # You can specify which content to display if your admin profile has both work and teaching sections
