@@ -107,14 +107,15 @@ work:
 
 
 teaching:
-- position: R Workshop Tutor
+ - position: R Workshop Tutor
     company_name: Statistical Consulting Centre, University of Auckland
     company_url: ''
     company_logo: ''
     date_start: 2019-01-01
     date_end: 2021-12-01
     summary: |
-- position: Graduate Teaching Assistant
+      Supported research staff and students in using R for data manipulation, visualisation, and analysis.
+ - position: Graduate Teaching Assistant
     company_name: University of Auckland
     company_url: ''
     company_logo: ''
