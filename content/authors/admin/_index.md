@@ -97,22 +97,29 @@ work:
     company_logo: ''
     date_start: 2024-01-15
     date_end: ''
-    summary: |2-
- #     Responsibilities include:
- #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: R Workshop Tutor
+  - position: Big Data Analytics Internship
+    company_name: Vodafone New Zealand Limited
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2019-03-01
+    summary: |
+
+
+teaching:
+- position: R Workshop Tutor
     company_name: Statistical Consulting Centre, University of Auckland
     company_url: ''
     company_logo: ''
     date_start: 2019-01-01
     date_end: 2021-12-01
     summary: |
-  - position: Graduate Teaching Assistant
+- position: Graduate Teaching Assistant
     company_name: University of Auckland
     company_url: ''
     company_logo: ''
     date_start: 2019-01-01
-    date_end: 2019-03-01
+    date_end: 2021-12-01
     summary: |
       Provided teaching assistance in the following courses:
       - STATS 10x (Introduction to Statistics)
@@ -122,13 +129,6 @@ work:
       - STATS 330 (Statistical Modelling)
       - STATS 763 (Advanced Regression Methodology)
       - STATS 782 (Statistical Computing)
-  - position: Big Data Analytics Internship
-    company_name: Vodafone New Zealand Limited
-    company_url: ''
-    company_logo: ''
-    date_start: 2019-01-01
-    date_end: 2019-03-01
-    summary: |
 
 
 # Skills
