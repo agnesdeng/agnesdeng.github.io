@@ -11,9 +11,7 @@ design:
 # Page sections
 sections:
   - block: resume-teaching
-      title: Teaching Experience
+    content:
+      title: Teaching
       username: admin
-    design:
-      # Set the date format if you want specific formatting
-      date_format: 'January 2006'
 ---
