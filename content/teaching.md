@@ -12,24 +12,11 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: Teaching Experience
       username: admin
+      # You can specify which content to display if your admin profile has both work and teaching sections
+      filter_by: teaching
     design:
-      # Hugo date format
+      # Set the date format if you want specific formatting
       date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 ---
