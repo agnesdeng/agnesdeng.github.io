@@ -12,7 +12,7 @@ toc: false
 
 ---
 
-![](/sand.jpg)
+![](/static/sand.jpg)
 
 ### R Workshop Tutor (2019 - 2021)
 #### Statistical Consulting Centre, University of Auckland
