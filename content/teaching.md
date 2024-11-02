@@ -9,13 +9,10 @@ profile: false # Show author profile?
 comments: false  # Show comments?
 # Disable the automatic table of contents
 toc: false
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+
 ---
 
-![Example image](/static/sand.jpg)
+![](sand.jpg)
 
 ### R Workshop Tutor (2019 - 2021)
 #### Statistical Consulting Centre, University of Auckland
