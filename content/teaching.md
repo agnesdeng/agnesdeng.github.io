@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "sea.jpg"
 ---
 
 ### R Workshop Tutor (2019 - 2021)
