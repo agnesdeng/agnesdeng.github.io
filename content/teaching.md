@@ -12,7 +12,7 @@ toc: false
 
 ---
 
-![](assets/media/sand.jpg)
+![](/assets/media/sand.jpg)
 
 ### R Workshop Tutor (2019 - 2021)
 #### Statistical Consulting Centre, University of Auckland
