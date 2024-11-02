@@ -1,17 +1,18 @@
 ---
 title: Teaching
-summary: Here we describe how to add a page to your site.
+
 
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false # Show author profile?
 comments: false  # Show comments?
-
+# Disable the automatic table of contents
+toc: false
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "sea.jpg"
+  image: ""
 ---
 
 ### R Workshop Tutor (2019 - 2021)
