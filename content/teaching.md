@@ -12,9 +12,10 @@ toc: false
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "sea.jpg"
-  overlay: true 
+  image: ""
 ---
+
+![Example image](/static/sand.jpg)
 
 ### R Workshop Tutor (2019 - 2021)
 #### Statistical Consulting Centre, University of Auckland
