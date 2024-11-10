@@ -1,6 +1,6 @@
 ---
 title: Final submission of my PhD thesis
-summary: 
+summary: It's officially done, but I wish I can still be a student.
 date: 2024-10-11
 
 # Featured image
@@ -18,7 +18,7 @@ tags:
 
 
 
-{{< toc mobile_only=true is_open=true >}}
+
 
 It's officially done, but I wish I can still be a student.
 
