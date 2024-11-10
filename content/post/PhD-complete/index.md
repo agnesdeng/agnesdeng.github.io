@@ -1,6 +1,6 @@
 ---
-title: 🎉 Final submission of my PhD thesis
-summary: It's officially done now! What's next?
+title: Final submission of my PhD thesis
+summary: 
 date: 2024-10-11
 
 # Featured image
@@ -20,10 +20,14 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
-{{% callout %}}
-My **PhD thesis** is published on ResearchSpace now. 
-{{% /callout %}}
+It's officially done, but I wish I can still be a student.
 
-[Multiple Imputation Through Statistical Learning](https://researchspace.auckland.ac.nz/handle/2292/70308)
+
+
+
+
+
+
+
 
 
