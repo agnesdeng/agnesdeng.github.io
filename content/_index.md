@@ -40,7 +40,7 @@ sections:
           - Missing Data
           - Statistical Learning
           - Data Visualisation
-          - Multivariate & High-dimensional Statistics
+          - Multivariate & High-Dimensional Statistics
     design:
       columns: '1'
   - block: collection
