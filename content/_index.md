@@ -39,7 +39,8 @@ sections:
       text: |-
           - Missing Data
           - Statistical Learning
-          - Trees
+          - Data Visualisation
+          - Multivariate & High-dimensional Statistics
     design:
       columns: '1'
   - block: collection
