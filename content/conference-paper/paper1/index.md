@@ -26,6 +26,9 @@ publication_types: ['paper-conference']
 publication: "*Journal of ..."
 publication_short: ""
 
+# Set to draft to hide temporarily
+draft: true
+
 abstract: 
 
 # Summary. An optional shortened abstract.

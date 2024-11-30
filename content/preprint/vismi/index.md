@@ -18,6 +18,9 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
+# Set to draft to hide temporarily
+draft: true
+
 abstract: tbc.
 
 # Summary. An optional shortened abstract.
