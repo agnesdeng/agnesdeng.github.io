@@ -10,12 +10,24 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+      count: 5
+      order: desc
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
     content:
       title: Journal Articles
       text: 
       filters:
         folders:
-          - publication/journal-article
+          - publication/journal-article/
     design:
       view: article-grid
       fill_image: false
@@ -27,7 +39,7 @@ sections:
       text: 
       filters:
         folders:
-          - publication/conference-paper
+          - publication/conference-paper/
     design:
       view: article-grid
       fill_image: false
@@ -39,7 +51,7 @@ sections:
       text: 
       filters:
         folders:
-          - publication/preprint
+          - publication/preprint/
     design:
       view: article-grid
       fill_image: false

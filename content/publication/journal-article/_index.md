@@ -1,12 +1,6 @@
 ---
-title: Publications
-cms_exclude: true
+title: Journal Articles
 
 # View.
 view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
