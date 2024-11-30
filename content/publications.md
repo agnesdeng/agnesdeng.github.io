@@ -20,26 +20,24 @@ sections:
       view: article-grid
       fill_image: false
       view: citation
-
-  - block: collection
-    content:
-      title: Conference Papers
-      text: 
-      filters:
-        folders:
-          - publication/conference-paper/
-    design:
-      view: article-grid
-      fill_image: false
-      view: citation
-
   - block: collection
     content:
       title: Preprints
       text: 
       filters:
         folders:
-          - publication/preprint/
+          - preprint
+    design:
+      view: article-grid
+      fill_image: false
+      view: citation
+  - block: collection
+    content:
+      title: Conference Papers
+      text: 
+      filters:
+        folders:
+          - conference-paper
     design:
       view: article-grid
       fill_image: false

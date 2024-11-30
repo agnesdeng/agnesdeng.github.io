@@ -49,7 +49,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - journal-article
         featured_only: true
     design:
       view: article-grid
@@ -60,7 +60,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - journal-article
         exclude_featured: false
     design:
       view: citation
