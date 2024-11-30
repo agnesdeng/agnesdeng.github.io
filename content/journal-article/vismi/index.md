@@ -18,8 +18,11 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Computational and Graphical Statistics, 33*(2), 352–363"
+publication: "*Journal of Statistical Software"
 publication_short: ""
+
+# Set to draft to hide temporarily
+draft: true
 
 abstract: The use of multiple imputation (MI) is becoming increasingly popular for addressing missing data. Although some conventional MI approaches have been well studied and have shown empirical validity, they have limitations when processing large datasets with complex data structures. Their imputation performances usually rely on the proper specification of imputation models, and this requires expert knowledge of the inherent relations among variables. Moreover, these standard approaches tend to be computationally inefficient for medium and large datasets. In this paper, we propose a scalable MI framework mixgb, which is based on XGBoost, subsampling, and predictive mean matching. Our approach leverages the power of XGBoost, a fast implementation of gradient boosted trees, to automatically capture interactions and nonlinear relations while achieving high computational efficiency. In addition, we incorporate subsampling and predictive mean matching to reduce bias and to better account for appropriate imputation variability. The proposed framework is implemented in an R package mixgb. Supplementary materials for this article are available online.
 
@@ -30,7 +33,7 @@ tags:
 - vismi
 - Multiple Imputation
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

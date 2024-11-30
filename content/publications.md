@@ -18,7 +18,6 @@ sections:
           - journal-article
     design:
       view: article-grid
-      fill_image: false
       view: citation
   - block: collection
     content:
@@ -29,7 +28,6 @@ sections:
           - preprint
     design:
       view: article-grid
-      fill_image: false
       view: citation
   - block: collection
     content:
@@ -40,6 +38,5 @@ sections:
           - conference-paper
     design:
       view: article-grid
-      fill_image: false
       view: citation
 ---

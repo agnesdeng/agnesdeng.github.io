@@ -23,39 +23,37 @@ publishDate: '2030-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: "*Journal of ..."
+publication_short: ""
 
-abstract: ...
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: ...
+summary:  
 
 tags:
-  - Large Language Models
+- Chemometrics
 
-# Display this page in the Featured widget?
-featured: true
 
-# Custom links (uncomment lines below)
+featured: false
+
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# - name: ""
+#   url: ""
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501
+url_code: 'https://github.com/agnesdeng/mixgb-supplement'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -63,8 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -75,11 +72,13 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+ **Full text** of this paper
 {{% /callout %}}
+
+[Multiple Imputation Through XGBoost](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2252501)
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+**Supplementary materials** of this paper
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+[Github repository](https://github.com/agnesdeng/mixgb-supplement)
