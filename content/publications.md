@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Journal Articles
-      text: Published journal articles showcasing my research work.
+      text: 
       filters:
         folders:
           - publication/journal-article
@@ -20,11 +20,11 @@ sections:
       view: article-grid
       fill_image: false
       view: citation
-      
+
   - block: collection
     content:
       title: Conference Papers
-      text: A selection of conference papers I have contributed to.
+      text: 
       filters:
         folders:
           - publication/conference-paper
@@ -36,7 +36,7 @@ sections:
   - block: collection
     content:
       title: Preprints
-      text: Ongoing research shared as preprints for early access.
+      text: 
       filters:
         folders:
           - publication/preprint
