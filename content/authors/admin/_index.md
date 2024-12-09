@@ -187,7 +187,7 @@ awards:
   date: '2020-11-25'
   awarder: The New Zealand Statistical Association
 
-- title: Best Student Talk at 2020 NZSA Conference
+- title: Best Student Talk at 2019 NZSA Conference
   date: '2019-11-27'
   awarder: The New Zealand Statistical Association
 
