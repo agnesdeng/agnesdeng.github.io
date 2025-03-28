@@ -24,8 +24,8 @@ role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Environmental Science and Research (ESR)
-    url: https://www.esr.cri.nz/
+  - name: Auckland, New Zealand
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
