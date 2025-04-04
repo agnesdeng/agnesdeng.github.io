@@ -95,14 +95,14 @@ work:
     company_name: Oritain Global Limited
     company_url: ''
     company_logo: ''
-    date_start: 2024-03-24
+    date_start: 2025-03-24
     date_end: ''
   - position: Data Scientist
     company_name: Institute of Environmental Science and Research (ESR), New Zealand
     company_url: ''
     company_logo: ''
     date_start: 2024-01-15
-    date_end: 2024-03-21
+    date_end: 2025-03-21
   - position: Big Data Analytics Internship
     company_name: Vodafone New Zealand Limited
     company_url: ''
