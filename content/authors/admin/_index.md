@@ -159,10 +159,6 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Singing
-        description: ''
-        percent: 80
-        icon: custom/sing
       - name: Watercolour
         description: ''
         percent: 80
@@ -204,14 +200,6 @@ awards:
 
 - title: Summer Research Scholarship
   date: '2017-11-01'
-  awarder: University of Auckland
-
-- title: Top 20 Statistics Student
-  date: '2017-12-01'
-  awarder: University of Auckland
-
-- title: Top 20 Statistics Student
-  date: '2016-12-01'
   awarder: University of Auckland
 
 - title: The Ivan Reilly Prize
