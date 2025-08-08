@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making R packages for practioners. Here are a selection of projects that I have worked on over the years.
+      text: These are the R packages that I made during my PhD. 
       filters:
         folders:
           - project

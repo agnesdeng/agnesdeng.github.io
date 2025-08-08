@@ -10,6 +10,8 @@ toc: false
 
 ---
 
+I would be very happy to volunteer to promote the study of mathematics and statistics among school students. Please reach out if you are looking for a volunteer.
+
 
 ### R Workshop Tutor (2019 - 2021)
 #### Statistical Consulting Centre, University of Auckland

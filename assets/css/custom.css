@@ -1,10 +1,10 @@
 /* Smaller body text only on Teaching page */
 body.page-teaching .article-style {
-    font-size: 0.9rem; /* adjust as needed */
+    font-size: 0.5rem; /* adjust as needed */
     line-height: 1.5;
 }
 
 /* Smaller page title only on Teaching page */
 body.page-teaching .page-title {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
