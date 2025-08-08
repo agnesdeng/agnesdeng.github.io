@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Talks
-      text: Here are a selection of talks that I have given over the years.
+      title: What I talk about
+      text: when I talk about Statistics.
       filters:
         folders:
           - event

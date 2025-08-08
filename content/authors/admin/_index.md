@@ -165,6 +165,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Mathematics
+        description: ''
+        percent: 80
+        icon: custom/pyramid
       - name: Watercolour
         description: ''
         percent: 80
