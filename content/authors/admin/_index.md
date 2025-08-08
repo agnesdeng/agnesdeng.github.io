@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Agnes Yongshi Deng
+title: Yongshi Deng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
