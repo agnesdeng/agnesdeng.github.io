@@ -170,7 +170,7 @@ skills:
       - name: Mathematics
         description: ''
         percent: 80
-        icon: custom/boxes
+        icon: custom/sigma
       - name: Watercolour
         description: ''
         percent: 80
