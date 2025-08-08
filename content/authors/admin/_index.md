@@ -32,7 +32,7 @@ organizations:
 profiles:
   #- icon: at-symbol
   - icon: custom/email
-    url: 'mailto:yongshi.deng@auckland.ac.nz'
+    url: 'mailto:agnes.yongshideng@gmail.com'
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
