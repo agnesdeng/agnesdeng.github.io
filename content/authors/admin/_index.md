@@ -49,7 +49,11 @@ profiles:
   - icon: brands/mastodon
     url: https://mastodon.social/@yongshi_deng
 
-#interests:
+interests:
+  - Statistical Learning
+  - Multivariate & High-Dimensional Statistics
+  - Data Visualisation
+  - Missing Data
 
 
 education:

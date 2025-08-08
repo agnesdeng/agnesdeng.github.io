@@ -32,17 +32,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'Research Interests'
-      subtitle: ''
-      text: |-
-          - Statistical Learning
-          - Multivariate & High-Dimensional Statistics
-          - Data Visualisation
-          - Missing Data
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Publications
