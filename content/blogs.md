@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Blogs
-      text: It is trivia.
+      text: It is trivia, or maybe not.
       filters:
         folders:
           - post

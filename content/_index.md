@@ -37,10 +37,10 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       text: |-
-          - Missing Data
           - Statistical Learning
-          - Data Visualisation
           - Multivariate & High-Dimensional Statistics
+          - Data Visualisation
+          - Missing Data
     design:
       columns: '1'
   - block: collection

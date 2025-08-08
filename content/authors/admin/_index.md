@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Statistical Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -245,4 +245,4 @@ awards:
 
 ## About Me
 
-A non-automated statistician.
+A non-automated statistician who enjoys Maths as a hobby.
