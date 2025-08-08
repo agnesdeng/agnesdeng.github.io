@@ -6,7 +6,7 @@ title: Agnes Yongshi Deng
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Agnes Yongshi
+first_name: Yongshi
 last_name: Deng
 
 # Status emoji
@@ -96,6 +96,12 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-03-24
+    date_end: ''
+  - position: Student and Early Career Statisticians Network (SECS) Representative
+    company_name: New Zealand Statistical Association (NZSA)
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-04-01
     date_end: ''
   - position: Data Scientist
     company_name: Institute of Environmental Science and Research (ESR), New Zealand

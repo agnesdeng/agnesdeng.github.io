@@ -45,7 +45,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024. This work is licensed under {license}'
+    notice: '© 2025. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
