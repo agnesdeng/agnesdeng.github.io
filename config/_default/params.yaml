@@ -10,6 +10,9 @@ appearance:
   theme_day: ocean
   #color: emerald
 
+params:
+  customCSS:
+    - css/custom.css
 # SEO
 marketing:
   seo:

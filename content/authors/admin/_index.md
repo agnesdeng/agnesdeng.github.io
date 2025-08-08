@@ -245,4 +245,4 @@ awards:
 
 ## About Me
 
-A non-automated statistician who enjoys Maths as a hobby.
+A non-automated statistician.
