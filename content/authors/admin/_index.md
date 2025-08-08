@@ -160,7 +160,9 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        #icon: code-bracket
+        icon: Python
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 60
@@ -170,7 +172,8 @@ skills:
       - name: Mathematics
         description: ''
         percent: 80
-        icon: custom/brush
+        icon: cubes
+        icon_pack: fa
       - name: Watercolour
         description: ''
         percent: 80
