@@ -162,13 +162,11 @@ skills:
         percent: 60
         icon: circle-stack
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Mathematics
         description: ''
         percent: 80
-        icon: custom/pyramid
+        icon: custom/boxes
       - name: Watercolour
         description: ''
         percent: 80

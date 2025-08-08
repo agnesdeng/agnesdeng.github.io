@@ -8,7 +8,7 @@ appearance:
   mode: light
   color: blue
   theme_day: ocean
-  font_size: M
+  font_size: S
   #color: emerald
 
 params:
