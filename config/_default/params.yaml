@@ -7,13 +7,12 @@
 appearance:
   mode: light
   color: blue
-  theme_day: ocean
-  font_size: S
+  theme_day: minimal
+  font: minimal
+  font_size: s
   #color: emerald
 
-params:
-  customCSS:
-    - css/custom.css
+
 # SEO
 marketing:
   seo:
