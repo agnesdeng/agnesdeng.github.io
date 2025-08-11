@@ -17,7 +17,8 @@ sections:
         folders:
           - post
     design:
-      view: article-grid
+      view: compact
+      #view: article-grid
       fill_image: false
       columns: 1
 ---
