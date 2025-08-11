@@ -2,7 +2,7 @@
 title: Unlearn and Relearn
 summary: 
 date: 2025-08-01
-draft: false
+draft: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -26,6 +26,6 @@ I've always think I like analysis a lot more than algebra. I could see analysis 
 
 To start off my relearn journey, I created the following table using R package **gt**. 
 
-![Group,Ring and Field](algebra_gt.png)
+![Group,Ring and Field](featured.png)
 
 
