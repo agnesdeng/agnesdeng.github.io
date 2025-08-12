@@ -1,5 +1,5 @@
 ---
-title: Preprints
+title: Preprint
 
 # View.
 view: citation

@@ -1,6 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
+
+/* Change font size of top menu items */
+.navbar .navbar-nav .nav-link {
+  font-size: 1.5rem; /* adjust value as needed */
+}
+
+/* Change headings font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cormorant", sans-serif; /* replace with your font */
+}
+
+
 /* Reduce font size globally */
 body {
   font-family: "Cormorant", serif; /* replace with your font */
@@ -12,7 +24,3 @@ main, article {
   font-size: 16px !important;
 }
 
-/* Change headings font */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Cormorant", sans-serif; /* replace with your font */
-}
