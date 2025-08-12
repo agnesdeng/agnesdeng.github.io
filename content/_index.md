@@ -34,7 +34,7 @@ sections:
           parallax: false
   - block: collection
     content:
-      title: Publications
+      title: Publication
       text: ""
       filters:
         folders:
