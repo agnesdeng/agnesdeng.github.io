@@ -14,7 +14,7 @@ main:
     url: blog/
     weight: 12
   - name: Paper
-    url: publication/
+    url: paper/
     weight: 13
   - name: Talk
     url: talk/
