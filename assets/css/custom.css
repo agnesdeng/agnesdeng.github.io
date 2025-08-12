@@ -3,7 +3,7 @@
 
 /* Reduce font size globally */
 body {
-  font-family: "Libre Baskerville", serif; /* replace with your font */
+  font-family: "Cormorant", serif; /* replace with your font */
   font-size: 16px !important; /* adjust number as needed, !important to override */
 }
 
@@ -14,5 +14,5 @@ main, article {
 
 /* Change headings font */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Libre Baskerville", sans-serif; /* replace with your font */
+  font-family: "Cormorant", sans-serif; /* replace with your font */
 }

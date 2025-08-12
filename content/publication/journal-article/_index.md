@@ -1,5 +1,5 @@
 ---
-title: Journal Articles
+title: Journal Article
 
 # View.
 view: citation
