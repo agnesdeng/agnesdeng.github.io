@@ -1,5 +1,5 @@
 ---
-title: 'Blogs'
+title: 'Blog'
 date: 2024-05-19
 type: landing
 
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Blogs
+      title: Blog
       text: It is trivia, or maybe not.
       filters:
         folders:

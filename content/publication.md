@@ -1,5 +1,5 @@
 ---
-title: 'Publications'
+title: 'Publication'
 date: 2024-05-19
 type: landing
 
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Journal Articles
+      title: Journal Article
       text: 
       filters:
         folders:
@@ -21,7 +21,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Preprints
+      title: Preprint
       text: 
       filters:
         folders:
@@ -31,7 +31,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Conference Papers
+      title: Conference Paper
       text: 
       filters:
         folders:
