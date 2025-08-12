@@ -6,6 +6,7 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
+  max_width: '900px'
 
 # Page sections
 sections:
