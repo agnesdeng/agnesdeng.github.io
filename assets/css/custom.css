@@ -50,11 +50,11 @@ main, article {
 
 
 .bio-text h2#about-me {
-  font-size: 1.2em; /* Adjust as needed */
+  font-size: 1.4em; /* Adjust as needed */
 }
 
 .bio-text p {
-  font-size: 1em; /* Adjust as needed */
+  font-size: 1.2em; /* Adjust as needed */
 }
 
 .section-subheading {
@@ -67,9 +67,9 @@ main, article {
 }
 
 .parent-grid-container {
-      grid-template-columns: 400px 271.047px; /* Increase the first column width */
+      /*grid-template-columns: 400px 400px; /* Increase the first column width */
       /* Or use fr units for flexibility */
-      /* grid-template-columns: 1.5fr 1fr; */
+      grid-template-columns: 1.5fr 1fr; 
       /* Or set a fixed width for the grid container and use fr units */
       /* width: 700px; grid-template-columns: 1fr 1fr; */
     }
