@@ -1,15 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+
 /* Reduce font size globally */
 body {
-  font-family: "Georgia", serif; /* replace with your font */
-  font-size: 10px !important; /* adjust number as needed, !important to override */
+  font-family: "Cormorant Garamond", serif; /* replace with your font */
+  font-size: 14px !important; /* adjust number as needed, !important to override */
 }
 
 /* Or reduce font size just for the main content */
 main, article {
-  font-size: 10px !important;
+  font-size: 14px !important;
 }
 
 /* Change headings font */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", sans-serif; /* replace with your font */
+  font-family: "Cormorant Garamond", sans-serif; /* replace with your font */
 }
