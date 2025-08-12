@@ -60,5 +60,5 @@ main, article {
 }
 
 .prose.wider-list-container {
-    max-width: 100ch; /* Or a larger value */
+    max-width: 680px; /* Or a larger value */
 }
