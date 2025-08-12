@@ -1,5 +1,5 @@
 ---
-title: 'Publications'
+title: 'Publication'
 date: 2024-05-19
 type: landing
 
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Publications
+      title: Publication
       text: 
       filters:
         folders:
