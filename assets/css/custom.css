@@ -28,16 +28,27 @@ main, article {
   font-size: 0.9rem;
 }
 
+.ul-edu li { 
+  position: relative; 
+  padding: 0 15px 4px 3px; 
+ } 
+
 .ul-edu li .description p.course {
   font-size: 0.9rem;
 }
 
 .ul-edu li .description p.institution {
   font-size: 0.9rem;
+  margin: 0;
   /* color: rgba(0, 0, 0, 0.6); */
 }
 
 #about {
   font-size: 1rem;
+}
+
+.bio-text {
+  font-size: 1rem;
+  max-width: 680px;
 }
 

@@ -260,4 +260,3 @@ awards:
 ## About Me
 
 A non-automated statistician.
-{style="font-size: 1.2rem;} 
