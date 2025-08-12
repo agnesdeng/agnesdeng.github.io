@@ -9,7 +9,7 @@ appearance:
   color: blue
   theme_day: minimal
   font: minimal
-  font_size: s
+  font_size: m
   #color: emerald
 
 params:
