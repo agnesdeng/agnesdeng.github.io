@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: What I talk about
-      text: when I talk about Statistics.
+      title: What I talk about when I talk about Statistics.
+      text: So far I've only talked about my PhD work, but I do hope to have the chance to talk about something beyond that.
       filters:
         folders:
           - event

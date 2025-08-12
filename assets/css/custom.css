@@ -24,3 +24,15 @@ main, article {
   font-size: 16px !important;
 }
 
+.ul-interests li {
+  font-size: 1.1rem;
+}
+
+.ul-edu li .description p.course {
+  font-size: 1.0rem;
+}
+
+.ul-edu li .description p.institution {
+  font-size: 1.0rem;
+  /* color: rgba(0, 0, 0, 0.6); */
+}

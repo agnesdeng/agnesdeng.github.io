@@ -19,26 +19,4 @@ sections:
     design:
       view: article-grid
       view: citation
-  - block: collection
-    draft: true
-    content:
-      title: Preprint
-      text: 
-      filters:
-        folders:
-          - preprint
-    design:
-      view: article-grid
-      view: citation
-  - block: collection
-    draft: true
-    content:
-      title: Conference Paper
-      text: 
-      filters:
-        folders:
-          - conference-paper
-    design:
-      view: article-grid
-      view: citation
 ---
