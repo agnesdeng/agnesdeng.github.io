@@ -25,27 +25,36 @@ main, article {
 }
 
 .ul-interests li {
-  font-size: 0.9rem;
+  font-size: 1rem;
+  width: 100%;
 }
 
 .ul-edu li { 
   position: relative; 
+  width: 100%;
   padding: 0 15px 4px 3px; 
  } 
 
 .ul-edu li .description p.course {
-  font-size: 0.9rem;
+  font-size: 1rem;
+  width: 100%;
 }
 
 .ul-edu li .description p.institution {
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin: 0;
+  width: 100%;
   /* color: rgba(0, 0, 0, 0.6); */
 }
 
 
 .resume-biography .bio-text {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   max-width: 680px
 }
 
+
+.section-subheading {
+    font-size: 1.3rem;
+    font-weight: 700
+}
