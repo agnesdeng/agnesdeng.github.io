@@ -48,11 +48,14 @@ main, article {
 }
 
 
-.resume-biography .bio-text {
-  font-size: 1.1rem;
-  max-width: 680px
+
+.bio-text h2#about-me {
+  font-size: 1.2em; /* Adjust as needed */
 }
 
+.bio-text p {
+  font-size: 1em; /* Adjust as needed */
+}
 
 .section-subheading {
     font-size: 1.1rem;
@@ -62,3 +65,11 @@ main, article {
 .prose.wider-list-container {
     max-width: 680px; /* Or a larger value */
 }
+
+.parent-grid-container {
+      grid-template-columns: 400px 271.047px; /* Increase the first column width */
+      /* Or use fr units for flexibility */
+      /* grid-template-columns: 1.5fr 1fr; */
+      /* Or set a fixed width for the grid container and use fr units */
+      /* width: 700px; grid-template-columns: 1fr 1fr; */
+    }
