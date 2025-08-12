@@ -25,18 +25,19 @@ main, article {
 }
 
 .ul-interests li {
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 .ul-edu li .description p.course {
-  font-size: 1.0rem;
+  font-size: 0.9rem;
 }
 
 .ul-edu li .description p.institution {
-  font-size: 1.0rem;
+  font-size: 0.9rem;
   /* color: rgba(0, 0, 0, 0.6); */
 }
 
 #about {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
+

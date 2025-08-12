@@ -19,7 +19,7 @@ sections:
         folders:
           - event
     design:
-      view: compact
+      view: article-grid
       fill_image: false
       columns: 1
 ---

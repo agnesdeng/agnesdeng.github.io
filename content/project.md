@@ -11,15 +11,15 @@ design:
 sections:
   - block: collection
     content:
-      title: Current Projects
-      text: What I'm working on now.
+      title: Present
+      text: Reading, writing, and teaching my 3-year old about $a + b = b + a$
       filters:
         folders:
           - current-project
     design:
-      view: article-grid
+      view: showcase
       fill_image: false
-      columns: 3
+      columns: 1
   - block: collection
     content:
       title: Past Projects

@@ -53,7 +53,6 @@ interests:
   - Statistical Learning
   - Multivariate & High-Dimensional Statistics
   - Data Visualisation
-  - Missing Data
 
 
 education:
@@ -261,3 +260,4 @@ awards:
 ## About Me
 
 A non-automated statistician.
+{style="font-size: 1.2rem;} 
