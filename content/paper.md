@@ -20,6 +20,7 @@ sections:
       view: article-grid
       view: citation
   - block: collection
+    draft: true
     content:
       title: Preprint
       text: 
@@ -30,6 +31,7 @@ sections:
       view: article-grid
       view: citation
   - block: collection
+    draft: true
     content:
       title: Conference Paper
       text: 

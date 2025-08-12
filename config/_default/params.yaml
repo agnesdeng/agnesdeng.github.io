@@ -42,6 +42,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: false
+    highlight_active_link: false
     logo:
       text: "Agnes Yongshi Deng"
 
