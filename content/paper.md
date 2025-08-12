@@ -17,6 +17,6 @@ sections:
         folders:
           - journal-article
     design:
-      view: article-grid
+      #view: article-grid
       view: citation
 ---

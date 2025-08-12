@@ -6,19 +6,20 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
-  max_width: '900px'
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding: ['20px', '0', '20px', '0']
 
 # Page sections
 sections:
   - block: collection
     content:
       title: What I talk about when I talk about Statistics.
-      text: So far I've only talked about my PhD work, but I do hope to have the chance to talk about something beyond that.
+      text: 
       filters:
         folders:
           - event
     design:
-      view: article-grid
+      view: compact
       fill_image: false
       columns: 1
 ---
