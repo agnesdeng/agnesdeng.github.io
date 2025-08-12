@@ -12,6 +12,9 @@ appearance:
   font_size: s
   #color: emerald
 
+params:
+  customCSS:
+    - css/custom.css
 
 # SEO
 marketing:

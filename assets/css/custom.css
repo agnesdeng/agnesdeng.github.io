@@ -1,9 +1,15 @@
 /* Reduce font size globally */
 body {
-  font-size: 14px !important; /* adjust number as needed, !important to override */
+  font-family: "Georgia", serif; /* replace with your font */
+  font-size: 10px !important; /* adjust number as needed, !important to override */
 }
 
 /* Or reduce font size just for the main content */
 main, article {
-  font-size: 14px !important;
+  font-size: 10px !important;
+}
+
+/* Change headings font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", sans-serif; /* replace with your font */
 }
