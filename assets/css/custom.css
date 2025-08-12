@@ -43,17 +43,9 @@ main, article {
   /* color: rgba(0, 0, 0, 0.6); */
 }
 
-#about {
-  font-size: 1rem;
-}
 
-.bio-text {
-  font-size: 1rem;
-  max-width: 680px;
-}
-
-/* Custom styles for the biography section text */
-.custom-bio-text .col-lg-8 p {
-  font-size: 1.15rem; /* Adjust this value as you like */
+.resume-biography .bio-text {
+  font-size: 1.15rem;
+  max-width: 680px
 }
 
