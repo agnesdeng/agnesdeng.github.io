@@ -182,13 +182,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 90
-  - name: Cantonese 
-    percent: 100
-  - name: Mandarin
-    percent: 95
+#languages:
+#  - name: English
+#    percent: 90
+#  - name: Cantonese 
+#    percent: 100
+#  - name: Mandarin
+#    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
