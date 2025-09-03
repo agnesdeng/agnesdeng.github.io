@@ -12,8 +12,8 @@ address:
  # postcode: '94305'
   country: Australia
 
-summary: Demonstrate the R package mixgb.
-abstract: 'Multiple imputation is increasingly used in dealing with missing data. While some conventional multiple imputation approaches are well studied and have shown empirical validity, they entail limitations in processing large datasets with complex data structure. In this talk, we will introduce our R package mixgb​, which implements a scalable multiple imputation framework based on XGBoost, bootstrapping, and predictive mean matching. We will also demonstrate some visual diagnostic functions for inspecting multiply imputed values for incomplete variables.'
+summary: A different talk, a different perspective.
+abstract: 'Multiple imputation is widely used for handling missing data. Traditional methods often require proper model specification to perform well, and can be computationally demanding for large and complex datasets. In this talk, I will introduce our R package mixgb, which provides a scalable and automated solution for multiple imputation by leveraging XGBoost, subsampling, and predictive mean matching. I will discuss how to evaluate multiple imputation methods using simulation studies and I will demonstrate how our visual diagnostic package vismi can be used to assess imputation quality.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +22,7 @@ date_end: '2025-12-05T15:10:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-10-01T00:00:00Z'
+publishDate: '2025-09-03T00:00:00Z'
 
 authors:
   - admin
@@ -33,9 +33,9 @@ tags:
   - Multiple Imputation
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
-draft: true
+draft: false
 
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
