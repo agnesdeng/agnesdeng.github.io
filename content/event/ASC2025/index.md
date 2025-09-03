@@ -1,7 +1,7 @@
 ---
 title: 'mixgb: Multiple Imputation Through XGBoost'
 
-event: Australian Statistical Conference (ASC) 2025, Perth, Australia
+event: Australian Statistical Conference (ASC) 2025
 event_url: https://www.asc2025.net/
 
 location: Perth, Australia
